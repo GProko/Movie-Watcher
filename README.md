@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # movie_watcher
 
 A new Flutter project.
@@ -7,14 +7,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+you have to Setup >env File to Use this 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 =======
 # Movie-Watcher
->>>>>>> ec9bac1d360fbda36fb831f0e0208ebd431de505
+
