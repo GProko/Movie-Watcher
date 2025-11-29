@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # movie_watcher
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Movie-Watcher
+>>>>>>> ec9bac1d360fbda36fb831f0e0208ebd431de505
